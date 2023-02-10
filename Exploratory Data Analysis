@@ -6,7 +6,7 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     3. What is the racial/ethnic diversity?
     4. What is the age distribution for the survey?
     5. How does the distribution of those who do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program differ based on gender?
-    6. What was the most common motivating factor to attend CCM for each gender?
+    6. What was the most common motivating factor to take a technology course for each gender?
     7. What is percentage of students who are not the "average" age for college (17-24), and what are there reasons for taking a technology class?
     8. How does the interest in taking another technology course differ between gender? Between races/ethnicities? Ages?
 
@@ -110,42 +110,47 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     CyberSecurity Information Protection Program. While this may have been inaccurate, since it is represented in the data, it is included.
 
 
-*What was the most common motivating factor to attend CCM for each gender?*
+*What was the most common motivating factor to take a technology course for each gender?*
     Career Advancement Motivation (responded "Yes"):
-    Total:
-    Male:
-    Female:
-    Prefer not to say:
+    Total: 42.7% (count: 56 out of 131)
+    Male: 42.3% (count: 22 out of 52)
+    Female: 42.9% (count: 33 out of 77)
+    Prefer not to say: 50% (count: 1 out of 2)
     
     Professional Development Motivation (responded "Yes"):
-    Total:
-    Male:
-    Female:
-    Prefer not to say:
+    Total: 35.9% (count: 47 out of 131)
+    Male: 38.5% (count: 20 out of 52)
+    Female: 35.1% (count: 27 out of 77)
+    Prefer not to say: 0% (count: 0 out of 2)
     
     Required Class Motivation (responded "Yes"):
-    Total:
-    Male:
-    Female:
-    Prefer not to say:
+    Total: 84.7% (count: 111 out of 131)
+    Male: 75% (count: 39 out of 52)
+    Female: 92.2% (count: 71 out of 77)
+    Prefer not to say: 50% (count: 1 out of 2)
     
     To keep current in computing skills Motivation (responded "Yes"):
-    Total:
-    Male:
-    Female:
-    Prefer not to say:
+    Total: 48.1% (count: 63 out of 131)
+    Male: 57.5% (count: 30 out of 52)
+    Female: 41.6% (count: 32 out of 77)
+    Prefer not to say: 50% (count: 1 out of 2)
     
     Curiosity Motivation (responded "Yes"):
-    Total:
-    Male:
-    Female:
-    Prefer not to say:
+    Total: 38.2% (count: 50 out of 131)
+    Male: 51.9% (count: 27 out of 52)
+    Female: 28.6% (count: 22 out of 77)
+    Prefer not to say: 50% (count: 1 out of 2)
     
     Personal Enrichment Motivation (responded "Yes"):
-    Total:
-    Male:
-    Female:
-    Prefer not to say:
+    Total: 35.1% (count: 46 out of 131)
+    Male: 42.3% (count: 22 out of 52)
+    Female: 31.2% (count: 24 out of 77)
+    Prefer not to say: 0% (count: 0 out of 2)
+    
+    As shown in the data's statistics, the most common motivating factor to take a technology course for males, females, and those who prefer not to say is that the 
+    course is a required class, with 92.2% of females, 75% of males, and 50% of those who prefer not to say responding as such. However, besides the class being 
+    required, the next most common motivation factor for females was Career Advancement, with 42.9% of females stating that was their reason for taking a technology 
+    course. For males, at 57.5%, was To keep current in computing skills.
     
 
 *What is percentage of students who are not the "average" age for college (17-24), and what are there reasons for taking a technology class?*
@@ -157,13 +162,13 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     
     Career Advancement Motivation (responded "Yes"):
     Total: 42.7% (count: 56 out of 131)
-    24 or younger: 42.7% (count: 47 out of 110) 
+    24 or younger: 42.7% (count: 47 out of 110)
     25 or older: 42.9% (count: 9 out of 21)
     
     Professional Development Motivation (responded "Yes"):
     Total: 35.9% (count: 47 out of 131)
     24 or younger: 32.7% (count: 36 out of 110)
-    25 or older: 52.9% (count: 11 out of 21)
+    25 or older: 32.4% (count: 11 out of 21)
     
     Required Class Motivation (responded "Yes"):
     Total: 84.7% (count: 111 out of 131)
@@ -173,7 +178,7 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     To keep current in computing skills Motivation (responded "Yes"):
     Total: 48.1% (count: 63 out of 131)
     24 or younger: 47.3% (count: 52 out of 110)
-    25 or older: 52.9% (count: 11 out of 21)
+    25 or older: 52.4% (count: 11 out of 21)
     
     Curiosity Motivation (responded "Yes"):
     Total: 38.2% (count: 50 out of 131)
@@ -187,79 +192,76 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     
     As shown by the statistics, the most common choice chosen in the dataset for the motivation of taking a technology course is that the class is required for their 
     program, with 84.7% of all the age groups stating as such. Moreover, for both age groups, the Required Class motivation remains the most common reason for taking 
-    a technology course. Besides that, however, for those 24 and younger, the most common reason is Career Advancement, with 42.7% of those in that age group 
-    responding "Yes." On the other side, for those 25 and older, the most common reason is a tie between Career Advacement and To keep current in computing skills, 
-    with 52.9% of those in this age groups responding "Yes." 
+    a technology course. Besides that, however, for those 24 and younger, the most common reason is To keep current in computing skills, with 47.3% of those in that 
+    age group responding "Yes." On the other side, for those 25 and older, the most common reason is also To keep current in computing skills, with 52.4% of those in 
+    this age groups responding "Yes." 
     
 
 *How does the interest in taking another technology course differ between gender? Between races/ethnicities? Ages?*
     Interest based on Gender:
     Male:
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 36.5% (count: 19 out of 52)
+        3: 46.2% (count: 24 out of 52)
+        4 or 5: 17.3% (count: 9 out of 52)
     Female:
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 49.4% (count: 38 out of 77)
+        3: 37.7% (count: 29 out of 77)
+        4 or 5: 13.0% (count: 10 out of 77)
     Prefer not to say:
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 50% (count: 1 out of 2)
+        3: 50% (count: 1 out of 2)
+        4 or 5: 0% (count: 0 out of 2)
+    
+    As shown by the data, 17.3% of males are highly interested in taking another technology course (those who responded with either a 4 or 5 in the survey). For 
+    females, the number drops to 13%, and for those who prefered not to say, 0% responded that they were highly likely to take another technology class. In total, 19 
+    out of the 131 responded that they were highly interested, equating to around 14.5% of the dataset.
     
     Interest based on Race/Ethnicity:
     Hispanic/Latino: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 25.8% (count: 8 out of 31)
+        3: 61.3% (count: 19 out of 31)
+        4 or 5: 12.9% (count: 4 out of 31)
     White/Caucasian: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 51.9% (count: 27 out of 52)
+        3: 34.6% (count: 18 out of 52)
+        4 or 5: 13.5% (count: 7 out of 52)
     Black/African Amercian: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 23.1% (count: 3 out of 13)
+        3: 38.5% (count: 5 out of 13)
+        4 or 5: 38.5% (count: 5 out of 13)
     Asian: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 63.6% (count: 7 out of 11)
+        3: 18.2% (count: 2 out of 11)
+        4 or 5: 18.2% (count: 2 out of 11)
     Native American/American Indian/Alaska Native: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 100% (count: 2 out of 2)
+        3: 0% (count: 0 out of 2)
+        4 or 5: 0% (count: 0 out of 2)
     Multi-Racial: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 52.9% (count: 9 out of 17)
+        3: 41.2% (count: 7 out of 17)
+        4 or 5: 5.9% (count: 1 out of 17)
     Choose not to say: 
-        1 or 2:
-        3:
-        4 or 5:
+        1 or 2: 40% (count: 2 out of 5)
+        3: 60% (count: 3 out of 5)
+        4 or 5: 0% (count: 0 out of 5)
+        
+    As shown in the statistics, the race/ethnicity most interested in taking another technology course at CCM is Black/African American, with 38.5% responding that 
+    they were highly interested in doing so. On the other hand, the race/ethnicity least interested (responding with either a 1 or 2 in the survey) in taking another 
+    technology course is Native American/American Indian/Alaska Native, with 100% responding as such. 
     
     Interest based on Age:
-    18 and younger: 
-        1 or 2:
-        3:
-        4 or 5:
-    19-20: 
-        1 or 2:
-        3:
-        4 or 5:
-    21-24: 
-        1 or 2:
-        3:
-        4 or 5:
-    25-34: 
-        1 or 2:
-        3:
-        4 or 5:
-    35-64: 
-        1 or 2:
-        3:
-        4 or 5:
+    24 and younger:
+        1 or 2: 48.2% (count: 53 out of 110)
+        3: 40% (count: 44 out of 110)
+        4 or 5: 11.8% (count: 13 out of 110)
+    25 and older:
+        1 or 2: 23.8% (count: 5 out of 21)
+        3: 47.6% (count: 10 out of 21)
+        4 or 5: 28.6% (count: 6 out of 21)
     
-    xxx
+    As shown by the dataset, the 25 and older age group was more interested in taking another technology course compared to the 24 adn yoounger category, with 28.6% 
+    of the 25 and older age group answering that they were highly likely to take another class and only 11.8% of those 24 and younger to do the same. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
