@@ -8,8 +8,7 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     5. How does the distribution of those who do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program differ based on gender?
     6. What was the most common motivating factor to attend CCM for each gender?
     7. What is percentage of students who are not the "average" age for college (17-24), and what are there reasons for taking a technology class?
-    8. How interested are students who were motivated to attend CCM by the choice of programs in taking other technology courses? Of the technology courses offered 
-       in the survey, which were the most popular?
+    8. How does the interest in taking another technology course differ between gender? Between races/ethnicities? Ages?
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -112,8 +111,42 @@ The first step to analyzing and synthesizing from a dataset is to first understa
 
 
 *What was the most common motivating factor to attend CCM for each gender?*
-
-
+    Career Advancement Motivation (responded "Yes"):
+    Total:
+    Male:
+    Female:
+    Prefer not to say:
+    
+    Professional Development Motivation (responded "Yes"):
+    Total:
+    Male:
+    Female:
+    Prefer not to say:
+    
+    Required Class Motivation (responded "Yes"):
+    Total:
+    Male:
+    Female:
+    Prefer not to say:
+    
+    To keep current in computing skills Motivation (responded "Yes"):
+    Total:
+    Male:
+    Female:
+    Prefer not to say:
+    
+    Curiosity Motivation (responded "Yes"):
+    Total:
+    Male:
+    Female:
+    Prefer not to say:
+    
+    Personal Enrichment Motivation (responded "Yes"):
+    Total:
+    Male:
+    Female:
+    Prefer not to say:
+    
 
 *What is percentage of students who are not the "average" age for college (17-24), and what are there reasons for taking a technology class?*
     Count of those 24 or younger: 110
@@ -137,12 +170,96 @@ The first step to analyzing and synthesizing from a dataset is to first understa
     24 or younger: 83.6% (count: 92 out of 110)
     25 or older: 90.5% (count: 19 out of 21)
     
+    To keep current in computing skills Motivation (responded "Yes"):
+    Total: 48.1% (count: 63 out of 131)
+    24 or younger: 47.3% (count: 52 out of 110)
+    25 or older: 52.9% (count: 11 out of 21)
+    
+    Curiosity Motivation (responded "Yes"):
+    Total: 38.2% (count: 50 out of 131)
+    24 or younger: 39.1% (count: 43 out of 110)
+    25 or older: 33.3% (count: 7 out of 21)
+    
+    Personal Enrichment Motivation (responded "Yes"):
+    Total: 35.1% (count: 46 out of 131)
+    24 or younger: 33.6% (count: 37 out of 110)
+    25 or older: 42.9% (count: 9 out of 21)
+    
+    As shown by the statistics, the most common choice chosen in the dataset for the motivation of taking a technology course is that the class is required for their 
+    program, with 84.7% of all the age groups stating as such. Moreover, for both age groups, the Required Class motivation remains the most common reason for taking 
+    a technology course. Besides that, however, for those 24 and younger, the most common reason is Career Advancement, with 42.7% of those in that age group 
+    responding "Yes." On the other side, for those 25 and older, the most common reason is a tie between Career Advacement and To keep current in computing skills, 
+    with 52.9% of those in this age groups responding "Yes." 
+    
+
+*How does the interest in taking another technology course differ between gender? Between races/ethnicities? Ages?*
+    Interest based on Gender:
+    Male:
+        1 or 2:
+        3:
+        4 or 5:
+    Female:
+        1 or 2:
+        3:
+        4 or 5:
+    Prefer not to say:
+        1 or 2:
+        3:
+        4 or 5:
+    
+    Interest based on Race/Ethnicity:
+    Hispanic/Latino: 
+        1 or 2:
+        3:
+        4 or 5:
+    White/Caucasian: 
+        1 or 2:
+        3:
+        4 or 5:
+    Black/African Amercian: 
+        1 or 2:
+        3:
+        4 or 5:
+    Asian: 
+        1 or 2:
+        3:
+        4 or 5:
+    Native American/American Indian/Alaska Native: 
+        1 or 2:
+        3:
+        4 or 5:
+    Multi-Racial: 
+        1 or 2:
+        3:
+        4 or 5:
+    Choose not to say: 
+        1 or 2:
+        3:
+        4 or 5:
+    
+    Interest based on Age:
+    18 and younger: 
+        1 or 2:
+        3:
+        4 or 5:
+    19-20: 
+        1 or 2:
+        3:
+        4 or 5:
+    21-24: 
+        1 or 2:
+        3:
+        4 or 5:
+    25-34: 
+        1 or 2:
+        3:
+        4 or 5:
+    35-64: 
+        1 or 2:
+        3:
+        4 or 5:
+    
     xxx
-
-
-*How interested are students who were motivated to attend CCM by the choice of programs in taking other technology courses? Of the technology courses offered in the survey, which were the most popular?*
-
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -150,4 +267,11 @@ The first step to analyzing and synthesizing from a dataset is to first understa
 
     1. What impact do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program have on women? On men?
     2. 
+    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Future Questions*
+
+    1. How interested are students who were motivated to attend CCM by the choice of programs in taking other technology courses? Of the technology courses offered 
+       in the survey, which were the most popular?
 
