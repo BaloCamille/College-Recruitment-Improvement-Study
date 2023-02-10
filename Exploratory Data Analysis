@@ -1,11 +1,11 @@
 *Exploratory Data Analysis*
 
-The first step to analyzing and synthesizing from a dataset is to first understand the relationships between various attributes. This starts with answering preliminary and essential questions about the dataset. For this project, the CCM Computing Literacy Course Entry Survey will be used to answer the following questions:
+The first step to analyzing and synthesizing from a dataset is to first understand the relationships between various attributes. This starts with answering preliminary and essential questions about the dataset. For this project, the CCM Computing Literacy Course Entry Survey's 131 respondents will be used to answer the following questions:
     1. How many students from each different class responded to the survey?
     2. What are the gender percentages?
     3. What is the racial/ethnic diversity?
     4. What is the age distribution for the survey?
-    5. What impact do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program differ based on gender?
+    5. How does the distribution of those who do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program differ based on gender?
     6. What was the most common motivating factor to attend CCM for each gender?
     7. What is percentage of students who are not the "average" age for college (17-24), and what are there reasons for taking a technology class?
     8. How interested are students who were motivated to attend CCM by the choice of programs in taking other technology courses? Of the technology courses offered 
@@ -14,25 +14,101 @@ The first step to analyzing and synthesizing from a dataset is to first understa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *How many students from each different class responded to the survey?*
+    Counts:
     CMP 101 Computer Information Literacy: 28
     CMP 126 Computer Technology and Applications: 22
     CMP 135 Computer Concepts with Applications: 81
+    
+    Percentages:
+    CMP 101 Computer Information Literacy: 21.4%
+    CMP 126 Computer Technology and Applications: 16.8%
+    CMP 135 Computer Concepts with Applications: 61.8%
+    
+    From these statistics, it can be concluded that the most common course taken for those that responded to the Literacy Survey is CMP 135 Computer Concepts with 
+    Applications, with 81 total respondents taking that course-- 61.8% of the total dataset. On the other side, the least common course taken was CMP 126 Computer 
+    Technology and Applications, with almost 17% of the respondents taking the course-- 22 people in total.
 
 
 *What are the gender percentages?*
-
+    Count:
+    Male: 52
+    Female: 77
+    Prefer not to say: 2
+    
+    Percentage:
+    Male: 39.7%
+    Female: 58.8%
+    Prefer not to say: 1.5%
+    
+    From the statistics, it can be concluded that females made up the majority of the dataset, with 77 total females, approximately 58.8% of all the respondents.   
+    Males made up a significantly smaller percentage compared to the females, with just under 40% of respondents being male. It is also important to note that two 
+    respondents answered with "Prefer not to say" when asked about their gender. 
 
 
 *What is the racial/ethnic diversity?*
-
+    Count:
+    Hispanic/Latino: 31
+    White/Caucasian: 52
+    Black/African Amercian: 13
+    Asian: 11
+    Native American/American Indian/Alaska Native: 2
+    Multi-Racial: 17
+    Choose not to say: 5
+    
+    Percentage:
+    Hispanic/Latino: 23.7%
+    White/Caucasian: 39.7%
+    Black/African Amercian: 9.9%
+    Asian: 8.4%
+    Native American/American Indian/Alaska Native: 1.5%
+    Multi-Racial: 13.0%
+    Choose not to say: 3.8%
+    
+    Responses that contained more than one race or ethnicity were re-assigned to the Multi-Racial category except for the two respondents who answered "Native 
+    American/American Indian/Alaska Native" for ease of determining the distributions of those in the dataset. The most common race/ethnicity is White/Caucasian, 
+    with just under 40% of the dataset responding in that manner. The next most common is Hispanic/Latino, making up 23.7% of the dataset--another significantly 
+    large portion-- and 13% for those who answered with Multi-Racial (and those that were re-assigned to the Multi-Racial category). Those that responded Asian and 
+    those that responded Black/African American have approximately the same counts, with 11 specifying Asian and 13 specifying Black/African American. The least 
+    common race/ethnicity was the Native American/American Indian/Alaska Native category, with 2 respondents--approximately 1.5% of the dataset.
 
 
 *What is the age distribution for the survey?*
+    Count:
+    18 and younger: 44
+    19-20: 44
+    21-24: 22
+    25-34: 16
+    35-64: 5
+    
+    Percentage:
+    18 and younger: 33.6%
+    19-20: 33.6%
+    21-24: 16.8%
+    25-34: 12.2%
+    35-64: 3.8%
+    
+    Those 20 or younger make up approximately 67.2%, with both the 18 and younger category and the 19-20 year old category having 44 respondents. The least common 
+    age group represented in the dataset is the 35-64 year old group, with just under 4% of the respondents in the dataset specifiying their age as 35 or older.
 
 
-
-*What impact do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program differ based on gender?*
-
+*How does the distribution of those who do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program differ based on gender?*
+    ~Women Who Dare Participants based on Gender (responded "Yes")~
+        Male: 0
+        Female: 1
+        Prefer not to say: 0
+    ~CyberSecurity Information Protection Program Participants based on Gender (responded "Yes")~
+        Male: 0
+        Female: 0
+        Prefer not to say: 0
+    ~CyberSecurity Information Protection Program Participants based on Gender (responded "Not Sure")~
+        Male: 3
+        Female: 1
+        Prefer not to say: 1
+        
+    As shown by the statistics, for almost all of the respondents of the Literary Survey, prior to applying at CCM, only one female had participated in an event 
+    hosted by the college-- the Women Who Dare program. No respondent--neither male nor female (nor Prefer not to say) answered that they attended the CyberSecurity 
+    Information Protection Program. However, three males, one female, and one Prefer not to say responded that they were "Not Sure" whether they attended the 
+    CyberSecurity Information Protection Program. While this may have been inaccurate, since it is represented in the data, it is included.
 
 
 *What was the most common motivating factor to attend CCM for each gender?*
@@ -40,7 +116,28 @@ The first step to analyzing and synthesizing from a dataset is to first understa
 
 
 *What is percentage of students who are not the "average" age for college (17-24), and what are there reasons for taking a technology class?*
-
+    Count of those 24 or younger: 110
+    Percentage of those 24 or younger: 84.0%
+    
+    Count of those 25 or older: 21
+    Percentage of those 25 or older: 16.0%
+    
+    Career Advancement Motivation (responded "Yes"):
+    Total: 42.7% (count: 56 out of 131)
+    24 or younger: 42.7% (count: 47 out of 110) 
+    25 or older: 42.9% (count: 9 out of 21)
+    
+    Professional Development Motivation (responded "Yes"):
+    Total: 35.9% (count: 47 out of 131)
+    24 or younger: 32.7% (count: 36 out of 110)
+    25 or older: 52.9% (count: 11 out of 21)
+    
+    Required Class Motivation (responded "Yes"):
+    Total: 84.7% (count: 111 out of 131)
+    24 or younger: 83.6% (count: 92 out of 110)
+    25 or older: 90.5% (count: 19 out of 21)
+    
+    xxx
 
 
 *How interested are students who were motivated to attend CCM by the choice of programs in taking other technology courses? Of the technology courses offered in the survey, which were the most popular?*
@@ -51,6 +148,6 @@ The first step to analyzing and synthesizing from a dataset is to first understa
 
 *Insights*
 
-    1.
+    1. What impact do CCM events such as the Women Who Dare and the CyberSecurity Information Protection Program have on women? On men?
     2. 
 
