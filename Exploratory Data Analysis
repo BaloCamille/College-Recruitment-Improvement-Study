@@ -271,8 +271,43 @@ The first step to analyzing and synthesizing from a dataset is to first understa
         As shown previously in the preliminary data analysis of the Technology Literacy survey, the outreach events hosted by CCM--specifically the Women Who Dare 
         and the CyberSecurity Information Protection Program had an insignificant impact on both males and females on choosing to attend CCM, with only one female 
         stating she attended the Women Who Dare event and no one stating they were a part of the CyberSecurity Information Protection Program. From this data, it can 
-        be inferred that CCM's events that aim at a gender minority and that aim at attracting all students to the technology program is insufficient and negligible in both engaging and retaining students, regardless of gender. 
-    2. 
+        be inferred that CCM's events that aim at a gender minority and that aim at attracting all students to the technology program is insufficient and negligible 
+        in both engaging and retaining students, regardless of gender. To improve this outcome, more research and surveys will need to be taken to determine why 
+        students aren't interested in these events and what can be done to improve the events so more students would want to attend. Using the other responses in the 
+        Computer Literacy Survey would also be useful in determining what each gender's motivation was for taking a technology course. As discovered in the 
+        preliminary data analysis, for females, the most common reasons were that the course was required for their major (92.2%) and Career Advancement (42.9%), and 
+        for males, the most common reasons were also that the course was required for their major (75%) and to keep current in computing skills (57.5%). With this 
+        further information, CCM can tailor the events and programs they host to better suit the motivations for students to take technology courses. For example, 
+        the Women Who Dare event could be more tailored to advancement for females when entering the workforce, and for the technology department in particular, for 
+        women entering the STEM field due to them being a significant minority compared to their STEM male counterparts. Moreover, the technology department in 
+        particular could host an event for all majors about the latest technology, applications, and computing skills that would aid them best for their future and 
+        help develop students in those areas. However, these two proposals fail to address the largest issue that the technology department seems to be having with 
+        their retention of students--the fact that the largest motivating factor is that the technology course they are taking is required by their major, not that 
+        are actually interested in taking such a course. This may be due to various reasons including students not understanding the importance of technology and 
+        computer literacy for both personal and professional reasons, not having an interest in technology, or any other combination of reasons. To combat this, the 
+        technology department could incorporate greater emphasis on the importance of computer and technology literacy in the required classes as well as add a few 
+        subjects to those courses that could spark interest in the students, both of which could potentially increase the amount of students who return to the  
+        technology department to take another class.
+    2. How interested are students of different races/ethnicities in taking another technology course at CCM? What could be done to increase the technology 
+       department's retention of minorities? How could the technology department increase diversity and inclusion in their programs?
+        As shown previously in the preliminary data analysis of the Technology Literacy survey, the race/ethnicity most interested in taking another technology 
+        course was Black/African American, with 38.5% stating they were highly interested in doing so. The least likely were Native American/American Indian/Alaska 
+        Native (100%), Asian (63.6%), and Multi-Racial (52.9%), with all three of the races/ethnicities stating that they were not interested in taking another 
+        technology course (responding with either a 1 or 2). While more surveys and research would need to be conducted to hone in on what attracts minorities to the 
+        technology courses to determine the most effective retainment factors to aid in the diversity and inclusion of the technology department. However, with the 
+        current information and the other data provided by the survey, some retainment and inclusivity initiatives that could be brought to the technology department 
+        could include a greater emphasis on the importance of diversity and inclusivity as it relates to STEM. As shown previously, events and programs hosted by CCM 
+        and by the technology department have little impact in students' decision to attend CCM (at least in the case of the dataset's respondents). As such, an 
+        event or program may not be the most effective in aiding the technology department's recruitment and retainment of racial and ethnic minorities. However, 
+        that isn't to say it would be completely ineffective. After all, if the events and programs were tailored to the specific needs and wants of the demographic 
+        they are targetting, such initiatives could be beneficial to their cause. However, the distribution of those that responded to the survey as taking a 
+        technology course was fairly diverse, with 23.7% Hispanic/Latino respondents and 13% those stating they are Multi-Racial (this could, however, be considered 
+        low as well in some cases). One minority group that had a significantly lower percentage than the previously stated minorities is the Black/African American 
+        group, representing 9.9% of the dataset. This could mean that the college as a whole and in conjuction, the technology department (since all respondents are 
+        taking a technology course), doesn't necessarily have issues with diversity and inclusivity already--even with the Multi-Racial and Black/African American 
+        minority groups having significantly lower distributions, the general diversity seen in the dataset isn't highly skewed to being non-minority centric (the 
+        White/Caucasian group made up 39.7% of the dataset, and while this is substantially higher than the other racial and ethnic groups represented in the survey, 
+        it is still significantly below 50%). 
     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -280,4 +315,7 @@ The first step to analyzing and synthesizing from a dataset is to first understa
 
     1. How interested are students who were motivated to attend CCM by the choice of programs in taking other technology courses? Of the technology courses offered 
        in the survey, which were the most popular?
-
+    2. How does the motivating factor to take a technology course differ based on race/ethnicity?
+    
+    
+    
